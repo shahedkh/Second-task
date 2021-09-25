@@ -1,0 +1,32 @@
+body {
+  background-color: #fff7f0;
+}
+.contienr {
+  width: 70%;
+}
+
+.articles {
+  height: 200px;
+  border: 2px #b7b7b7 solid;
+  background: #ffffff;
+  padding: 25px;
+  margin: 20px;
+}
+.article2 {
+  height: 170px;
+  border: 2px black dashed;
+  background: #ffffff;
+  padding: 25px;
+  margin: 20px;
+}
+.a {
+  border: 2px red dashed;
+}
+.article3 {
+  height: 150px;
+  border: 2px #b7b7b7 solid;
+  background: #ffffff;
+  padding: 25px;
+  margin: 20px;
+  color: #800080;
+}

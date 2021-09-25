@@ -1,0 +1,20 @@
+.yellow {
+  padding: 30px;
+  width: 20px;
+  height: 17px;
+  background-color: yellow;
+  border: 2px solid black;
+  margin: 7px;
+}
+.green {
+  padding: 30px;
+  width: 20px;
+  height: 17px;
+  background-color: green;
+  border: 2px solid black;
+  margin: 7px;
+  transform: translate(0, 30px);
+}
+.contienr {
+  display: flex;
+}

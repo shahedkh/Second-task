@@ -1,0 +1,11 @@
+.a-table {
+  padding: 10px;
+}
+.a {
+  padding: 10px;
+  border: 2px black solid;
+  margin: 5px;
+  border-radius: 8px;
+  box-shadow: 3px 5px 6px #797878;
+  font-weight: 600;
+}
